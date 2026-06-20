@@ -102,7 +102,7 @@ We're not building a prototype for headlines. We're building a **practical aeria
 
 - 🐙 **GitHub:** [@ahqafcoder](https://github.com/ahqafcoder)
 - 💼 **LinkedIn:** [ahqaf-ali](https://www.linkedin.com/in/ahqaf-ali)
-- 📧 **Email:** [hello@airdelivery.dev](mailto:hello@airdelivery.dev) *(update this)*
+- 📧 **Email:** [ahqafaliofficial@gmail.com](mailto:ahqafaliofficial@gmail.com) 
 
 ---
 
