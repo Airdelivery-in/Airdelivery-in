@@ -129,8 +129,8 @@ Interested in partnerships, pilot programs, or joining the team?
 
 ---
 
-&lt;div align="center"&gt;
+
 
   *AirDelivery — Taking delivery to new heights.* 🚁📦
 
-&lt;/div&gt;
+
