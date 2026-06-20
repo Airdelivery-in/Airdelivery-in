@@ -1,7 +1,18 @@
-# 🚁 AirDelivery
+&lt;div align="center"&gt;
 
-&gt; **Autonomous aerial logistics for everyday life.**  
-&gt; Making drone delivery as common as the mail truck.
+  &lt;img src="https://raw.githubusercontent.com/Airdelivery-in/Airdelivery-in/main/image/banner.png" alt="AirDelivery Banner" width="100%"&gt;
+
+  &lt;h1&gt;🚁 AirDelivery&lt;/h1&gt;
+
+  &lt;p&gt;&lt;strong&gt;Autonomous aerial logistics for everyday life.&lt;/strong&gt;&lt;br&gt;
+  Making drone delivery as common as the mail truck.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;a href="https://github.com/ahqafcoder"&gt;&lt;img src="https://img.shields.io/badge/Founder-ahqafcoder-181717?style=flat-square&logo=github" alt="GitHub"&gt;&lt;/a&gt;
+    &lt;a href="https://www.linkedin.com/in/ahqafcoder"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-ahqafcoder-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"&gt;&lt;/a&gt;
+  &lt;/p&gt;
+
+&lt;/div&gt;
 
 ---
 
@@ -85,11 +96,51 @@ We're not building a prototype for headlines. We're building a **practical aeria
 
 ---
 
-## 📫 Get in Touch
+## 👤 Founder
 
-Interested in partnerships, pilot programs, or joining the team?  
-Reach out: [airdelivery43@gmail.com](mailto:airdelivery43@gmail.com)
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;
+      &lt;a href="https://github.com/ahqafcoder"&gt;
+        &lt;img src="https://github.com/ahqafcoder.png" width="100px" alt="ahqafcoder" style="border-radius: 50%;"&gt;&lt;br&gt;
+        &lt;sub&gt;&lt;b&gt;ahqafcoder&lt;/b&gt;&lt;/sub&gt;
+      &lt;/a&gt;&lt;br&gt;
+      &lt;sub&gt;Founder & Lead Developer&lt;/sub&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+- 🐙 **GitHub:** [@ahqafcoder](https://github.com/ahqafcoder)
+- 💼 **LinkedIn:** [ahqaf-ali](https://www.linkedin.com/in/ahqaf-ali)
+- 📧 **Email:** [hello@airdelivery.dev](mailto:hello@airdelivery.dev) *(update this)*
 
 ---
 
-*AirDelivery — Taking delivery to new heights.* 🚁📦
+## 🤝 Open to Collaboration
+
+We're actively looking for:
+
+- **Aerospace engineers** — airframe design, aerodynamics, propulsion
+- **Autonomy & robotics engineers** — flight control, path planning, computer vision
+- **Full-stack developers** — fleet management platform, delivery dashboards
+- **Partners & pilots** — logistics companies, healthcare providers, rural operators
+
+If you're passionate about making drone delivery a practical reality, we'd love to hear from you.
+
+---
+
+## 📫 Get in Touch
+
+Interested in partnerships, pilot programs, or joining the team?
+
+- 📧 **Email:** [hello@airdelivery.dev](mailto:hello@airdelivery.dev) *(update this)*
+- 🐙 **GitHub Issues:** [Open an issue](https://github.com/ahqafcoder/ahqafcoder/issues) for questions or ideas
+- 💼 **LinkedIn:** [Message me directly](https://www.linkedin.com/in/ahqaf-ali)
+
+---
+
+&lt;div align="center"&gt;
+
+  *AirDelivery — Taking delivery to new heights.* 🚁📦
+
+&lt;/div&gt;
