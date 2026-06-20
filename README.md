@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ahqafcoder/ahqafcoder/main/banner.png" alt="AirDelivery Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Airdelivery-in/Airdelivery-in/refs/heads/main/images/banner.png>
 
   <h1>🚁 AirDelivery</h1>
 
