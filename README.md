@@ -124,7 +124,7 @@ If you're passionate about making drone delivery a practical reality, we'd love 
 Interested in partnerships, pilot programs, or joining the team?
 
 - 📧 **Email:** [airdelivery43@gmail.com](mailto:airdelivery43@gmail.com) 
-- 🐙 **GitHub Issues:** [Open an issue](https://github.com/ahqafcoder/ahqafcoder/issues) for questions or ideas
+- 🐙 **GitHub Issues:** [Open an issue](https://github.com/Airdelivery-in/Airdelivery-in/issues) for questions or ideas
 - 💼 **LinkedIn:** [Message me directly](https://www.linkedin.com/in/ahqaf-ali)
 
 ---
