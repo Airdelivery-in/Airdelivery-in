@@ -5,7 +5,7 @@
   <h1>🚁 AirDelivery</h1>
 
   <p><strong>Autonomous aerial logistics for everyday life.</strong><br>
-  Making drone delivery as common as the mail truck.</p>
+  Making drone delivery as common as the delivery person.</p>
 
   <p>
     <a href="https://github.com/ahqafcoder"><img src="https://img.shields.io/badge/Founder-ahqafcoder-181717?style=flat-square&logo=github" alt="GitHub"></a>
