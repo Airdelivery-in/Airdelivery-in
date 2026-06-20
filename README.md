@@ -1,18 +1,18 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-  &lt;img src="https://raw.githubusercontent.com/Airdelivery-in/Airdelivery-in/main/image/banner.png" alt="AirDelivery Banner" width="100%"&gt;
+  <img src="https://raw.githubusercontent.com/ahqafcoder/ahqafcoder/main/banner.png" alt="AirDelivery Banner" width="100%">
 
-  &lt;h1&gt;🚁 AirDelivery&lt;/h1&gt;
+  <h1>🚁 AirDelivery</h1>
 
-  &lt;p&gt;&lt;strong&gt;Autonomous aerial logistics for everyday life.&lt;/strong&gt;&lt;br&gt;
-  Making drone delivery as common as the mail truck.&lt;/p&gt;
+  <p><strong>Autonomous aerial logistics for everyday life.</strong><br>
+  Making drone delivery as common as the mail truck.</p>
 
-  &lt;p&gt;
-    &lt;a href="https://github.com/ahqafcoder"&gt;&lt;img src="https://img.shields.io/badge/Founder-ahqafcoder-181717?style=flat-square&logo=github" alt="GitHub"&gt;&lt;/a&gt;
-    &lt;a href="https://www.linkedin.com/in/ahqafcoder"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-ahqafcoder-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"&gt;&lt;/a&gt;
-  &lt;/p&gt;
+  <p>
+    <a href="https://github.com/ahqafcoder"><img src="https://img.shields.io/badge/Founder-ahqafcoder-181717?style=flat-square&logo=github" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/ahqafcoder"><img src="https://img.shields.io/badge/LinkedIn-ahqafcoder-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  </p>
 
-&lt;/div&gt;
+</div>
 
 ---
 
