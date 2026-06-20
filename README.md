@@ -98,17 +98,7 @@ We're not building a prototype for headlines. We're building a **practical aeria
 
 ## 👤 Founder
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td align="center"&gt;
-      &lt;a href="https://github.com/ahqafcoder"&gt;
-        &lt;img src="https://github.com/ahqafcoder.png" width="100px" alt="ahqafcoder" style="border-radius: 50%;"&gt;&lt;br&gt;
-        &lt;sub&gt;&lt;b&gt;ahqafcoder&lt;/b&gt;&lt;/sub&gt;
-      &lt;/a&gt;&lt;br&gt;
-      &lt;sub&gt;Founder & Lead Developer&lt;/sub&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+
 
 - 🐙 **GitHub:** [@ahqafcoder](https://github.com/ahqafcoder)
 - 💼 **LinkedIn:** [ahqaf-ali](https://www.linkedin.com/in/ahqaf-ali)
